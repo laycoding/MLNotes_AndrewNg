@@ -1,0 +1,31 @@
+
+%Variables in the current scope:
+%
+%   Attr Name                   Size                     Bytes  Class
+%   ==== ====                   ====                     =====  ===== 
+%        J                      1x1                          8  double
+%        Theta                  1x10250                  82000  double
+%        Theta1                25x401                    80200  double
+%        Theta11               25x400                    80000  double
+%        Theta1_grad           25x401                    80200  double
+%        Theta2                10x26                      2080  double
+%        Theta21               10x25                      2000  double
+%        Theta2_grad           10x26                      2080  double
+%        X                   5000x25                   1000000  double
+%        a1                  5000x401                 16040000  double
+%        ans                    1x1                          8  double
+%        c                      1x1                          8  double
+%       h                   5000x10                    400000  double
+%        hidden_layer_size      1x1                          8  double
+%        input_layer_size       1x1                          8  double
+%        lambda                 1x1                          8  double
+%        m                      1x1                          8  double
+%        nn_params          10285x1                      82280  double
+%        num_labels             1x1                          8  double
+%        sel                    1x100                      800  double
+%        y                   5000x1                      40000  double
+%        y1                  5000x10                     50000  logical
+%        y2                  5000x1                       5000  logical
+%        z2                  5000x25                   1000000  double
+
+
